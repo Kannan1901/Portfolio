@@ -49,11 +49,6 @@
 
 @media screen and (max-width: 600px) {
 
-
-
-
-
-
   #dekstop-nav{
     display: none;
   }
@@ -120,11 +115,11 @@
 
   .section__text{
 
-    margin-top: 200px;
+    margin-top: 240px;
  }
 
  .section__text__p1{
-  margin-top: 60px;
+  margin-top: 180px;
  }
 
   #socials-container{
@@ -135,6 +130,18 @@
   section#contact{
     margin-top: -100px;
 
+  }
+  section#skill{
+    margin-top: 00px;
+
+  }
+
+  #about{
+    margin-top: 90px;
+  }
+
+  p .section__text__p1{
+    margin-top: 20px;
   }
 
   
