@@ -49,6 +49,9 @@
 
 @media screen and (max-width: 600px) {
 
+  html{
+    margin-bottom: 100px;
+  }
   #dekstop-nav{
     display: none;
   }
@@ -143,7 +146,9 @@
   p .section__text__p1{
     margin-top: 20px;
   }
-
+  .contact-info-upper-container{
+    margin-bottom: 50px;
+  }
   
 }
 
